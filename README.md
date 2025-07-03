@@ -12,7 +12,7 @@ Whether you're a beginner or a seasoned investor, Doorwise lets you:
 Built with [Streamlit](https://streamlit.io), this tool is perfect for anyone analyzing rental deals on the fly.
 
 ## 🚀 Try the App
-👉 [Live demo on Streamlit Cloud](https://your-username-doorwise.streamlit.app)
+👉 [Live demo on Streamlit Cloud](https://Gordon14624-doorwise.streamlit.app)
 
 ## 🧮 Features
 - Input purchase price, rent, expenses, and loan details
@@ -25,4 +25,4 @@ Built with [Streamlit](https://streamlit.io), this tool is perfect for anyone an
 - Deployed on Streamlit Cloud
 
 ## 📬 Contact
-Created by [Your Name] – feel free to reach out or contribute!
+Created by Gordon Clifford – feel free to reach out or contribute!
